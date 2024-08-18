@@ -27,6 +27,7 @@ Begin by identifying and organizing all the components listed above. Ensure you 
 Carefully attach the motor driver board to the top of the robotic car chassis. Make sure it is securely mounted and positioned for optimal performance. This step is crucial as the motor driver board controls the movement of the car.
 
 ### Step 3: Motor Connections
+![circuit-transformed](https://github.com/user-attachments/assets/7d047395-d817-4fab-a5c3-08681070df55)
 
 Connect the motors to the motor driver board. Follow the wiring diagram provided to ensure accurate connections. Proper wiring is essential for the correct operation of the motors and overall functionality of the rover.
 
