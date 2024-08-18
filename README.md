@@ -1,4 +1,5 @@
 # WiFi Rover Project: A Smart Car with NodeMCU and Blynk Integration
+![Screenshot 2024-08-18 190038](https://github.com/user-attachments/assets/fd63d095-45ec-4a5a-b619-4c05dd9b268e)
 
 Welcome to the **WiFi Rover Project**, an exciting tutorial where we will guide you through the process of building a smart car controlled via WiFi using the NodeMCU ESP8266 board and the Blynk app. In this comprehensive guide, you’ll learn how to assemble the hardware components, set up the software, and integrate everything to create a fully functional WiFi-controlled rover. Whether you're a seasoned hobbyist or just starting with IoT projects, this guide will provide you with step-by-step instructions to achieve your goals.
 
